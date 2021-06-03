@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Maidens complain[t] against coffee, or, The coffee-house discovered beseiged, stormed, taken, untyled and lai[d] open to publick view ... written by Merc. Democ. at his chamber in the world in the moon for the ben[efit] of all the mad-merry-conceited people under the sun.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51318</idno><idno type="EEBO-CITATION">9542944</idno>
+  <idno type="VID">43572</idno>
+  <idno type="EEBO-PROQUEST">2264193986</idno>
+  
+            <idno type="STC">Wing M267A</idno>
+            <idno type="STC">ESTC R26792</idno>
+            <idno type="OCLC">09542944</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43572)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1335:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Maidens complain[t] against coffee, or, The coffee-house discovered beseiged, stormed, taken, untyled and lai[d] open to publick view ... written by Merc. Democ. at his chamber in the world in the moon for the ben[efit] of all the mad-merry-conceited people under the sun.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coffeehouses --  England --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43572:1"/>
+            <pb facs="tcp:43572:1"/>
+            <p>THE Maidens Complain Against COFFEE.</p>
+            <p>OR, THE COFFEE-HOUSE DISCOVERED, Besieged, Stormed, Taken, Untyled and la<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Open to publick view, in a merry Conference between
+<list>
+                  <item>Mr. <hi>Black-burnt</hi> the Coffee-man.</item>
+                  <item>Mr. <hi>Suck-soul</hi> the Userer.</item>
+                  <item>Mr. <hi>Antidote</hi> the Mountibank.</item>
+                  <item>Mr. <hi>Purge</hi> the Apothecaries.</item>
+                  <item>Mris. <hi>Troublesome</hi> the Userers wife.</item>
+                  <item>
+                     <hi>Snap-short</hi> the Usurers man.</item>
+                  <item>
+                     <hi>Toby</hi> the Brokers man.</item>
+                  <item>
+                     <hi>Dorothy</hi> the Userers maid. And</item>
+                  <item>
+                     <hi>Joane</hi> the Brokers maid.</item>
+               </list>
+            </p>
+            <p>BEING Very pleasant and delightsome for Old and Young, Lads and Lasses, Boyes a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Girles, <hi>Omnium gatherum,</hi> as the devout <hi>Ironmonger</hi> quotes it, in his Annotations upon <hi>Toby</hi> and his Dog.</p>
+            <p>
+               <hi>Written by</hi> Merc. Democ. <hi>at his Chamber in the World in the Moon, for the ben<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of all the mad-merry-conceited people under the Sun.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Jones</hi> and are to be sold at the <hi>Royal Excha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> in <hi>Cornhil,</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:43572:2"/>
+            <pb n="1" facs="tcp:43572:2"/>
+            <head>THE COFFEE-HOUSE UNTYL'D.</head>
+            <sp>
+               <speaker>Black-burnt</speaker>
+               <p>WHo's at dore?</p>
+            </sp>
+            <sp>
+               <speaker>Troublesom.</speaker>
+               <p>Is my Husband here?</p>
+            </sp>
+            <sp>
+               <speaker>Blak.</speaker>
+               <p>He is just come in. Pray Mris <hi>Trouble<g ref="char:EOLhyphen"/>some</hi> go into the Coffee-room, there's none but a Broker with him.</p>
+            </sp>
+            <sp>
+               <speaker>Troubl.</speaker>
+               <p>Truly Mr. <hi>Suck-soul</hi> you drive a fine Trade here, you'l ene make your body as black with this cursed liquor, as your Soul is with extortion; but efaith I'le beat up your quarters a little oftner then I have done; for if your haunt be here <hi>Black burnt</hi> will Soul-suck you with his Coffee more than you do the poor with extortion.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>Indeed Mris <hi>Troublesome</hi> you judge very uncharitably, for my gain is but ten pence in the shilling, and I am as well contented with that as he that gets pounds.</p>
+            </sp>
+            <sp>
+               <speaker>Troubl.</speaker>
+               <p>I marry, that you may well be, for ten pence in the shilling is just. 83 pound, 6 shillings and 8 pence <hi>per cent.</hi> and if my husband get but 30, or 40 pound in the hundred hee's as safe as a thief in a mill. Come <hi>Suck-soul,</hi> let's be gone.</p>
+            </sp>
+            <sp>
+               <speaker>Suck-soul.</speaker>
+               <p>Prethee love be patient, I'le follow the presently.</p>
+            </sp>
+            <sp>
+               <speaker>Troubl.</speaker>
+               <p>You shall go with me, or the house shall be to hot to hold you or any of your Companions, before <hi>Black-burnt</hi> shall keep you
+<pb n="2" facs="tcp:43572:3"/> up in his Hell-black Ordinary, I'le make h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m fly his house, I and his Country too.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>Pray Mris. <hi>Troublesome</hi> don't make such a ratling noise here to d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sturb my house, and fright away my customers, if you do, I shall be forcd to turn you out a dores.</p>
+            </sp>
+            <sp>
+               <speaker>Troubl.</speaker>
+               <l>Use better language, Sirrah, be more Civil,</l>
+               <l>Or I shall fling your Coffee to the Devil.</l>
+            </sp>
+            <sp>
+               <speaker>Suck.</speaker>
+               <p>Mr. <hi>Black-burt</hi> I must needs go, or there will be such a peal of thunder by and by, as will far exceed the heat of your Coffee; for this is but one of my Wives preambles she will enlarge presently, to prevent that danger farewel.</p>
+            </sp>
+            <stage>
+               <hi>Antidote</hi> and <hi>Purge.</hi>
+            </stage>
+            <sp>
+               <speaker>Antid.</speaker>
+               <p>Well overtaken Mr. <hi>Purge,</hi> Whether away so fast?</p>
+            </sp>
+            <sp>
+               <speaker>Purg.</speaker>
+               <p>In sooth I'me going to the Devils Ordinary call'd the Coffee House.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Efaith Change time is almost past. Let's away with all dexte<g ref="char:EOLhyphen"/>rity, agility and celerity, least we lose our oportunity; for I intend to perswade as many as I can to drink that Indian liquor, 'twill make work enough for me.</p>
+            </sp>
+            <sp>
+               <speaker>Purg.</speaker>
+               <p>I and for me too I hope, if your trade go forward.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>And that it shall do, for what Ingredients I want, I'le have of none but your self.</p>
+            </sp>
+            <sp>
+               <speaker>Purg.</speaker>
+               <p>Come then, let's enter this Coffee-house.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Mr. <hi>Black-burnt,</hi> Have you any Coffee ready?</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>Yes Sir; the best in <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Give me a dish. Oh it's rare liquor, good for several disea<g ref="char:EOLhyphen"/>ses, an infallible Medicine I'le promise you for the Gout, Consumpti<g ref="char:EOLhyphen"/>on, Dropsie, Ptisick and all other Maladies.</p>
+            </sp>
+            <sp>
+               <speaker>All the Customers.</speaker>
+               <p>Truly Sir we have found some good in it, but if it be infallible, and so rare for all diseases, wee'l make this our head<g ref="char:EOLhyphen"/>quarters.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Do you see Mr. <hi>Purge</hi> how it takes with them, I shall have imployment enough; for I know it is the only liquor in the universe, to fill the body with diseases, it drys up the brains, putrifies the blood, shrinks up the Sinews, Nerves, Arteries and corodes upon every part of the body, that I am sure to have patients enow infected to fill my Coffers.</p>
+            </sp>
+            <sp>
+               <speaker>Purg.</speaker>
+               <p>Sil, I hope as fortune favours you with store of patients,
+<pb n="3" facs="tcp:43572:3"/> you will be pleased to favour me with your Custome, for I can fit you with Unguents, Syrups, O<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls, Pills, Plaisters, Powders, and other In<g ref="char:EOLhyphen"/>gredients of all sorts.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I know thou'rt an able fellow, be confident of my custome, till when farewell.</p>
+            </sp>
+            <stage>
+               <hi>Enter Dorothy</hi> and <hi>Jone.</hi>
+            </stage>
+            <sp>
+               <speaker>Dorothy.</speaker>
+               <p>Honest <hi>Ione,</hi> how fares it with you these hard times?</p>
+            </sp>
+            <sp>
+               <speaker>Ione.</speaker>
+               <p>Worse then ever I expected; for I believe I shall never en<g ref="char:EOLhyphen"/>joy any comfort from our man <hi>Snapshort</hi> since he went, with my Ma<g ref="char:EOLhyphen"/>ster to the <hi>Coffee-house,</hi> he is so dry as a kix, that damn'd liquor will shorten his life and ability at least five in the fifteen.</p>
+            </sp>
+            <sp>
+               <speaker>Dorothy.</speaker>
+               <p>And truly our <hi>Toby</hi> is come to the same passe; for since he drank <hi>Coffee,</hi> he is no more like the man he was then an apple's like an Oyster.</p>
+            </sp>
+            <sp>
+               <speaker>Ione.</speaker>
+               <p>In truth <hi>Dorothr</hi> my Mistris complains as much of my Master; for now, if she look him, she finds him no where but at a <hi>Coffee-house</hi> forsooth, with a dish in his hand and a pipe at his nose, where there's a fmoak like a Brewers Stoak-hole.</p>
+            </sp>
+            <sp>
+               <speaker>Dorothy.</speaker>
+               <p>Verily <hi>Ioane</hi> my M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is. dos cry out as much against my Master, for formerly she was wont to find him at a Taverne, where she could have a glasse of Canary to refresh her languishing spirits, but now (since this black-broth came up) if she look him, hee's at a <hi>Coffee house,</hi> making a chimney of his noddle, where there is such an odious scent; fogh, fogh, fogh it makes my heart ake to think what a Jaques he makes of his brains.</p>
+            </sp>
+            <sp>
+               <speaker>Ioane.</speaker>
+               <p>I believe the Devil first invented this liquor, on purpose to plague our Sex.</p>
+            </sp>
+            <sp>
+               <speaker>Dor.</speaker>
+               <p>I imagine so too, but rather then I'le dote upon a man that drinks <hi>Coffee,</hi> I am resolv'd to leod Apes in Hell.</p>
+            </sp>
+            <sp>
+               <speaker>Ioane.</speaker>
+               <l>And Devils to rather then I will think,</l>
+               <l>Upon such sots as Hell-burn'd Liquors drink.</l>
+            </sp>
+            <sp>
+               <speaker>Dorothy.</speaker>
+               <p>I protest <hi>Ione</hi> there's a little comfort in <hi>Chocolate,</hi> but before I'le flng my self away upon any such dry horson as drinks <hi>Coffee,</hi> I'le wrap my Maiden-head in my smock, and fling it into the Ocean to be bugger'd to death by young Lobsters.</p>
+            </sp>
+            <sp>
+               <speaker>Ioane.</speaker>
+               <p>And for my part, I'le hang my Maiden-head on a Wind-mill to be bated to death by the four Winds, rather then be poyson'd with the scent of old crusts, and shreads of Leather burn'd and beaten to
+<pb n="4" facs="tcp:43572:4"/> powder, of which I believe this cursed <hi>Coffee</hi> is made; some decayed Marchant has doubtless brought this in fashion to replenish his crack'd estate; and without question blind <hi>Hewson</hi> was the first inventer of this liquor, who converted his old shoes to powder, and sent them over on purpose to poyson the <hi>English;</hi> but I'le do the best I can to pre<g ref="char:EOLhyphen"/>serve my self from being infected with the scent of the Devils ordina<g ref="char:EOLhyphen"/>ry, and so farewel sister <hi>Dorothy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dorothy.</speaker>
+               <p>Adieu till to morrow, and then, if we meet, instead of <hi>Coffee,</hi> wee'l have a cup of wholsom Ale and a tost, till when let us he gone for yonder comes <hi>Snapshort</hi> and <hi>Toby.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Toby.</speaker>
+               <p>Heav'ns assist me! What's this? a vision! Sure 'tis honest <hi>Snapshort</hi> the Userers man! Efaith 'tis he in his own likeness, How fairs it with you?</p>
+            </sp>
+            <sp>
+               <speaker>Snap.</speaker>
+               <p>So strangely that I am ready to stagger with thinking, as much as the most distemper'd sot in the world can be with swallowing a whole brewing of <hi>English Ale.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Toby.</speaker>
+               <p>Prethee <hi>Snapshort</hi> what's the cause of thy suddain distemper?</p>
+            </sp>
+            <sp>
+               <speaker>Snap.</speaker>
+               <p>Cause enough to make thee mad if there were no more men in the world but thy self; for upon <hi>Thursday</hi> last, I travel'd to the <hi>Royal Exchange,</hi> to collect certain sums of mony due to my Master from some decayed Marchants; and by the confused noise of several Languages, I was so confounded in my noddle that my brains ran to and fro like a foot-boy; and passing from thence into <hi>Lothbury,</hi> I went into a <hi>Coffee-house,</hi> took a dish of that Hell-burn'd liquor, think<g ref="char:EOLhyphen"/>ing to settle them in their right Center, with the ratling noise of Ket<g ref="char:EOLhyphen"/>tles, Skimers and Ladles amongst the Brasiers, my brains run round so swift as a Wind-mill, and all my joynts were as num as a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> old Wo<g ref="char:EOLhyphen"/>mans troubled with the dead Palsy 30 years togather, till I went into <hi>Moor-fields,</hi> took a turn or two in the Userers walk, and drank a cup of good wholsome Ale, with which I was revived, enlivened and restored to my memory, so perfectly, that I had an account in my pate of every penny due to my Master since the Creation.</p>
+            </sp>
+            <sp>
+               <speaker>Toby.</speaker>
+               <p>Sfoot <hi>Snapshort,</hi> I'me not a little joyful of thy recovery to thy sences, but for that cursed Indian liquor, 'twill poyson a horse, it is a drench for the Devil; for since I drank <hi>Coffee,</hi> twice I adventer'd to storm the Fortresse of our maid <hi>Joane,</hi> with as much eagerness as ever the Great Turk did attempt to gain <hi>Constantinople;</hi> yet all my hopes were frustrated, and I did but just fling away a nights lodging or
+<pb n="5" facs="tcp:43572:4"/> two, to as little purpose as if I had run my Head into a Kitching-stuff Tub;</p>
+               <lg>
+                  <l>But I'le leave <hi>Coffee,</hi> for a cup of <hi>Bracket</hi>
+                  </l>
+                  <l>Will fit a youngman for a Maidens I'l—</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Snap.</speaker>
+               <p>I that, that, thas's the liquor I fancy; for I've as great an ambition to try our maid <hi>Dorothy</hi> as ever I had to satisfy my hungry maw with a breakfast of poach'd Eggs.</p>
+            </sp>
+            <sp>
+               <speaker>Toby.</speaker>
+               <p>Honest <hi>Snapshort,</hi> I'le help the to a cup of the best about <hi>London,</hi> for a cunning Landabe<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is of mine invited me (not long ago) to a house in <hi>Petty-France,</hi> where after a bottle or two, I grew so strong, that I call'd for a more convenient room, went up staires, had a fresh bottle, flung her on the bed, and gave her as good a meales meat as ever she eat since the prime of her understanding; these are the effects of <hi>Bracket,</hi> but for <hi>Coffee,</hi> that curs'd liquor disables the most valiant Hectors in the universe. Nay, I dare pawn my honesty, had <hi>Coffee</hi> been made in the days of fair <hi>Hellen</hi> of <hi>Greece,</hi> so many he<g ref="char:EOLhyphen"/>roick Champions would not have been so Ivsty, to adventur their lives and fortunes for a <hi>Nunquam satis.</hi>
+               </p>
+               <l>Rather than I will such damn'd liquor take,</l>
+               <l>I'le drink the waters of the <hi>Stygian Lake.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Snap.</speaker>
+               <p>But to leave off this dispute, where shall we pacifie the fury of our angry Stomacks with a good dinner?</p>
+            </sp>
+            <sp>
+               <speaker>Toby.</speaker>
+               <p>If you'l accept of such faire as I have provided for a friend or two of mine, you shall be as welcome as Maycrel in <hi>May;</hi> Go with me to the <hi>Labour in Vain,</hi> I have bespoke a Shoulder of Veal stufft with Cockles, a Lobster-tart, a Goose-giblet Custard, ner'e a bone of Bief, a Lack of Mutton and two Wood-cocks, if you'l make a third you'l find as good company as your self; for there's <hi>Donpancratone</hi> the Spanish Postelion, and Mounsieut <hi>La Flamsted</hi> the Plank-weaver of <hi>Tenebrosa,</hi> as good company as ever mortal mouth'd meat withal, besides a rare eccho of invissible musick.</p>
+            </sp>
+            <sp>
+               <speaker>Snap.</speaker>
+               <p>Never was gentleman of quality better pleas'd with a din<g ref="char:EOLhyphen"/>ner than I am in election to be. Divine chear! Oh how pomper'd my poor panch is like to be by honest <hi>Toby!</hi> Veal, Cockles, Lobsters, Mutton, Bief, Wood-cocks, Goose-giblets, Musick and pure company; the gods themselves could not have more variety of dainties for fish and flesh; But among all this chear is there no <hi>Coffee?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:43572:5"/>
+               <speaker>Toby.</speaker>
+               <p>Not a drop comes in my mouth or any mans there. What, poyso<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my guesse, no honest <hi>Snapshort,</hi> there's a cup of good whole<g ref="char:EOLhyphen"/>some <hi>English</hi> Ale,</p>
+               <lg>
+                  <l>'Twill sting your Nose like Nector, and will raise</l>
+                  <l>Rich Rubies to your everlasting praise.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Snap.</speaker>
+               <l>Come noble <hi>Toby</hi> let's away to dine,</l>
+               <l>And steep our drowsie souls in sparkling Wine.</l>
+            </sp>
+            <div type="postscript">
+               <head>The Mountebanks Postcript to the Reader.</head>
+               <l>Reader, this drink call'd <hi>Coffee,</hi> it is good</l>
+               <l>To dry the Brains, and putrefie the Blood;</l>
+               <l>It Cures the Body of its health, no doubt</l>
+               <l>The sight also, if that it put not out</l>
+               <l>The eye:, its full of Gravel, and there's none</l>
+               <l>That use it, but may soon obtain the Stone,</l>
+               <l>The Palsie, Dropsie, Gout, Feaver and Ptifick,</l>
+               <l>So that in fine, they'l come to me for Physick:</l>
+               <l>It dryes up moisture, shortens precious life,</l>
+               <l>And makes a man unkind unto his Wife:</l>
+               <l>It makes a Christian blacker far within,</l>
+               <l>Then ever was the Negars outward skin:</l>
+               <l>Its of a Berry, men, this <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iquor make,</l>
+               <l>Which is transported from the Stygion Lake,</l>
+               <l>Upon the Banks of it these bushes growes,</l>
+               <l>The which the Stygion waters overf<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ows,</l>
+               <l>(Like <hi>Nilus</hi>) and so nourisht is this Weed,</l>
+               <l>That n<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w hath gain'd the name of Coffee seed:</l>
+               <l>If't be not brought from <hi>Styx,</hi> no man can tell,</l>
+               <l>(It is so black) except it grow in Hell.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43572:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
